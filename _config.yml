@@ -1,0 +1,9 @@
+title: Inżynieria oprogramowania – laboratorium
+description: Materiały dla studentów · Uniwersytet Rzeszowski, Instytut Informatyki
+lang: pl
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false

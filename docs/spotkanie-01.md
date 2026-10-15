@@ -131,4 +131,4 @@ RFI i RFP dołącz jako załączniki (Załącznik A i B).
 
 ---
 
-**Dalej:** [Spotkanie 2. Wymagania i diagram przypadków użycia](spotkanie-02.md) · [Strona główna](../README.md)
+**Dalej:** [Spotkanie 2. Wymagania i diagram przypadków użycia](spotkanie-02.md) · [Strona główna](../)

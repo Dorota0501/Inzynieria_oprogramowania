@@ -171,4 +171,4 @@ Przygotuj tekst **Rozdziału 2: Specyfikacja wymagań** (4–7 stron):
 
 ---
 
-**Wstecz:** [Spotkanie 1. Dokumentacja techniczna (RFI i RFP)](spotkanie-01.md) · [Strona główna](../README.md)
+**Wstecz:** [Spotkanie 1. Dokumentacja techniczna (RFI i RFP)](spotkanie-01.md) · [Strona główna](../)

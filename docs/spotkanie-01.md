@@ -7,7 +7,7 @@ title: "Spotkanie 1. Dokumentacja techniczna (RFI i RFP)"
 
 | Czas | Zakres | Wynik pracy |
 |---|---|---|
-| ok. 80 min | Opis systemu, wykaz funkcjonalności i aktorów, RFI i RFP | Karta systemu, wykaz funkcjonalności i aktorów, RFI i RFP (ćwiczenie) |
+| ok. 90 min | Opis systemu, wykaz funkcjonalności i aktorów, RFI i RFP | Karta systemu, wykaz funkcjonalności i aktorów, RFI i RFP (ćwiczenie) |
 
 ## Cele spotkania
 

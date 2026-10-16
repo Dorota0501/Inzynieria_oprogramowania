@@ -7,7 +7,7 @@ title: "Spotkanie 4. Diagram komponentów i diagram sekwencji"
 
 | Czas | Zakres | Wynik pracy |
 |---|---|---|
-| ok. 85 min | Architektura (komponenty), analiza funkcjonalności, diagram sekwencji | Diagram komponentów, diagramy sekwencji kluczowych scenariuszy |
+| ok. 90 min | Architektura (komponenty), analiza funkcjonalności, diagram sekwencji | Diagram komponentów, diagramy sekwencji kluczowych scenariuszy |
 
 ## Cele spotkania
 

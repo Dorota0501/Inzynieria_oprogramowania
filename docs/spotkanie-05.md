@@ -7,7 +7,7 @@ title: "Spotkanie 5. Procesy biznesowe i projektowanie testów automatycznych"
 
 | Czas | Zakres | Wynik pracy |
 |---|---|---|
-| ok. 85 min | Diagram aktywności, projektowanie testów automatycznych | Diagram aktywności, zestaw przypadków testowych, szkielety testów automatycznych |
+| ok. 90 min | Diagram aktywności, projektowanie testów automatycznych | Diagram aktywności, zestaw przypadków testowych, szkielety testów automatycznych |
 
 ## Cele spotkania
 

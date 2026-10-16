@@ -7,7 +7,7 @@ title: "Spotkanie 6. Dokumentacja techniczna i automatyzacja"
 
 | Czas | Zakres | Wynik pracy |
 |---|---|---|
-| ok. 85 min | Dokumentacja techniczna systemu, automatyzacja dokumentacji, automatyzacja wytwarzania (CI) | Struktura dokumentacji, README, automatyczne budowanie dokumentacji, działający potok CI |
+| ok. 90 min | Dokumentacja techniczna systemu, automatyzacja dokumentacji, automatyzacja wytwarzania (CI) | Struktura dokumentacji, README, automatyczne budowanie dokumentacji, działający potok CI |
 
 ## Cele spotkania
 

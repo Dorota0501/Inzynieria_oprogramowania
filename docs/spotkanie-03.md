@@ -7,7 +7,7 @@ title: "Spotkanie 3. Struktura klas: diagram klas i diagram pakietów"
 
 | Czas | Zakres | Wynik pracy |
 |---|---|---|
-| ok. 85 min | Analiza struktury klas, diagram klas, diagram pakietów | Lista klas z uzasadnieniem, diagram klas, opis relacji, diagram pakietów |
+| ok. 90 min | Analiza struktury klas, diagram klas, diagram pakietów | Lista klas z uzasadnieniem, diagram klas, opis relacji, diagram pakietów |
 
 ## Cele spotkania
 

@@ -7,7 +7,7 @@ title: "Spotkanie 2. Wymagania i diagram przypadków użycia"
 
 | Czas | Zakres | Wynik pracy |
 |---|---|---|
-| ok. 85 min | Wymagania, diagram przypadków użycia, scenariusze | Tabela wymagań, diagram UC, opisy scenariuszy, macierz śledzenia |
+| ok. 90 min | Wymagania, diagram przypadków użycia, scenariusze | Tabela wymagań, diagram UC, opisy scenariuszy, macierz śledzenia |
 
 ## Cele spotkania
 

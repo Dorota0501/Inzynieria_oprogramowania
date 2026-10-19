@@ -104,7 +104,7 @@ UC5 ..> UC2 : <<extend>>
 
 | # | Zadanie | Czas |
 |---|---|:---:|
-| **2.1** | **Lista wymagań.** Na podstawie wykazu funkcjonalności ze spotkania 1 (oraz RFP, o ile powstał) sporządzana jest tabela: min. 10 FR i min. 5 NFR (co najmniej 3 różne kategorie jakości). Każde wymaganie ma ID, priorytet MoSCoW i kryterium akceptacji. | 20 min |
+| **2.1** | **Lista wymagań.** Na podstawie wykazu funkcjonalności ze spotkania 1 (oraz RFP, o ile powstał) sporządzana jest tabela: min. 8 FR i min. 4 NFR (co najmniej 3 różne kategorie jakości). Każde wymaganie ma ID, priorytet MoSCoW i kryterium akceptacji. | 20 min |
 | **2.2** | **Aktorzy.** Weryfikacja i uzupełnienie aktorów z wykazu (min. 3), w tym, jeśli ma to sens, jednego będącego systemem zewnętrznym. | 5 min |
 | **2.3** | **Diagram przypadków użycia.** Min. 8 przypadków, co najmniej jedna relacja `include` i jedna `extend`. | 20 min |
 | **2.4** | **Opis scenariuszy.** Opis wg szablonu min. 3 najważniejszych przypadków, każdy z co najmniej jednym scenariuszem alternatywnym. | 15 min |
@@ -136,9 +136,9 @@ Specyfikacja wymagań z zajęć jest pełna i robocza. W pracy dyplomowej zwykle
 
 ## 5. Kryteria kompletności wyniku
 
-- Co najmniej 10 FR i 5 NFR, każde z ID, priorytetem i kryterium akceptacji.
+- Co najmniej 8 FR i 4 NFR, każde z ID, priorytetem i kryterium akceptacji.
 - Brak wymagań typu „system ma być szybki/przyjazny”.
-- Min. 3 aktorów i 8 przypadków użycia na diagramie.
+- Min. 2 aktorów i 6 przypadków użycia na diagramie.
 - Użyte `include` i `extend` (poprawny kierunek strzałek).
 - Trzy opisane scenariusze z alternatywami.
 - Macierz śledzenia FR–UC bez wymagań pozbawionych przypadków użycia.
